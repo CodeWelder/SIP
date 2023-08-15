@@ -53,5 +53,7 @@
 
 ## Leaving
 
+- [ ] Change garbage bags in the kitchen and in the toilet.
 - [ ] Turn off all the lights and sign.
 - [ ] Close the door with the key and lock.
+- [ ] Take out the trash.
