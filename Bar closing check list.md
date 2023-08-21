@@ -53,6 +53,7 @@
 
 ## Leaving
 
+- [ ] Send to the SIP telegram group what to buy for the next day.
 - [ ] Change garbage bags in the kitchen and in the toilet.
 - [ ] Turn off all the lights and sign.
 - [ ] Close the door with the key and lock.
