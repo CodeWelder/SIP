@@ -27,7 +27,7 @@ Cookie|Cookie
 Sugar bag|Sugar bag
 Plastic stirrer|Small metal spoon
 
-## Espresso, Double espresso
+## Espresso
 
 TO GO|Inside
 --|--
