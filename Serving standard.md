@@ -41,7 +41,7 @@ Plastic stirrer|Small metal spoon
 
 TO GO|Inside
 --|--
-Medium (250 ml) coffee cup |Medium ceramic cup on a saucer
+Medium (250 ml) coffee cup |Small ceramic cup on a saucer
 Cookie|Cookie
 Sugar bag|Sugar bag
 Plastic stirrer|Small metal spoon
