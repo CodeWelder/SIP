@@ -4,7 +4,6 @@ TO GO|Inside
 --|--
 Small (300 ml) plastic cup|Glass
 Small plastic cap|-
-Cookie|Cookie
 Straw of choice|Straw of choice
 
 ## Iced Flat White
@@ -14,7 +13,6 @@ TO GO|Inside
 Warning about date paste|Warning about date paste
 Large (500 ml) plastic cup|Glass
 Large plastic cap|-
-Cookie|Cookie
 Long straw|Long straw
 
 ## Flat White, Aeropress
