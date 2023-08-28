@@ -15,7 +15,7 @@ Large (500 ml) plastic cup|Glass
 Large plastic cap|-
 Long straw|Long straw
 
-## Flat White, Aeropress
+## Flat White, Aeropress, *Australian lungo (not in the menu)*
 
 TO GO|Inside
 --|--
@@ -35,7 +35,7 @@ Sugar bag|Sugar bag
 Plastic stirrer|Small metal spoon
 -|Glass of water
 
-## Double Espresso (not in the menu)
+## Double Espresso
 
 TO GO|Inside
 --|--
@@ -44,3 +44,26 @@ Cookie|Cookie
 Sugar bag|Sugar bag
 Plastic stirrer|Small metal spoon
 -|Glass of water
+
+## Latte, Cappuccino, Dojč
+
+TO GO|Inside
+--|--
+Large (400 ml) coffee cup |Large ceramic cup on a saucer
+Large coffee cap|-
+Cookie|Cookie
+Sugar bag|Sugar bag
+Plastic stirrer|Small metal spoon
+-|Glass of water
+
+## *Raf (not in the menu)*
+
+TO GO|Inside
+--|--
+Warning about date paste|Warning about date paste
+Warning about spices|Warning about spices
+Large (400 ml) coffee cup|Glass
+Large coffee cap|-
+Cookie|Cookie
+
+
