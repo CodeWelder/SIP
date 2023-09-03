@@ -47,14 +47,9 @@ Plastic stirrer|Small metal spoon
 
 ## Latte, Cappuccino, Dojč
 
-TO GO|Inside
---|--
-Large (400 ml) coffee cup |Large ceramic cup on a saucer
-Large coffee cap|-
-Cookie|Cookie
-Sugar bag|Sugar bag
-Plastic stirrer|Small metal spoon
--|Glass of water
+Type|TO GO|Inside
+--|--|--
+Latte, Cappuccino, Dojč|![To go serving image](https://github.com/CodeWelder/SIP/blob/main/images/Cappuccino_togo.png)|![Inside serving image](https://github.com/CodeWelder/SIP/blob/main/images/Cappuccino_inside.png)
 
 ## *Raf (not in the menu)*
 
